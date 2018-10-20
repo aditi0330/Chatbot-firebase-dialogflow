@@ -1,0 +1,31 @@
+{
+  "id": "2fc5d581-2ef2-4ece-ac52-63973f7db289",
+  "name": "Type-of-Room",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Economy",
+      "synonyms": [
+        "Economy",
+        "Low cost",
+        "Casual"
+      ]
+    },
+    {
+      "value": "VIP",
+      "synonyms": [
+        "VIP",
+        "Luxury",
+        "Special"
+      ]
+    },
+    {
+      "value": "Standard",
+      "synonyms": [
+        "Standard"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
